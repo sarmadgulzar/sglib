@@ -1,0 +1,13 @@
+[package]
+name = "sglib"
+version = "0.1.0"
+authors = ["Sarmad Gulzar <sarmadgulzar@outlook.com>"]
+edition = "2018"
+license-file = "LICENSE"
+description = "A library for.. (not sure yet!)"
+homepage = "https://github.com/sarmadgulzar/sglib"
+documentation = "https://github.com/sarmadgulzar/sglib"
+repository = "https://github.com/sarmadgulzar/sglib"
+readme = "README.md"
+
+[dependencies]
